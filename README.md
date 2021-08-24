@@ -58,11 +58,3 @@ https://cloud.google.com/firestore/docs/samples
 https://firebase.google.com/docs/firestore/quickstart
 
 ---
-
-# Source Code
-You can download the source code for the chatroom from [here.](https://github.com/asadnmalik/Channels-Based-Chat-Room-Application-/archive/refs/heads/main.zip)
-
----
-
-## Copyright, Author
-*Copyright 2021*, Asad Naveed Malik, *All rights reserved.*
